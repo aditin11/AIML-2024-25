@@ -1,4 +1,4 @@
-14# AIML-2024-25
+AIML-2024-25
 1.[lab1](https://github.com/aditin11/AIML-2024-25/blob/main/Lab01_AIML.ipynb)
 2.[lab2](https://github.com/aditin11/AIML-2024-25/blob/main/Lab02_AIML.ipynb)
 3.[lab3](https://github.com/aditin11/AIML-2024-25/blob/main/Lab03_AIML.ipynb)
