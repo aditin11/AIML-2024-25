@@ -1,2 +1,10 @@
-# AIML-2024-25
-1.[lab0](https://github.com/aditin11/AIML-2024-25/blob/main/Welcome_To_Colaboratory.ipynb)
+14# AIML-2024-25
+1.[lab1](https://github.com/aditin11/AIML-2024-25/blob/main/Lab01_AIML.ipynb)
+2.[lab2](https://github.com/aditin11/AIML-2024-25/blob/main/Lab02_AIML.ipynb)
+3.[lab3](https://github.com/aditin11/AIML-2024-25/blob/main/Lab03_AIML.ipynb)
+4.[lab4](https://github.com/aditin11/AIML-2024-25/blob/main/Lab04_AIML.ipynb)
+5.[lab5](https://github.com/aditin11/AIML-2024-25/blob/main/Lab05_AIML.ipynb)
+6.[lab6](https://github.com/aditin11/AIML-2024-25/blob/main/Lab06_AIML.ipynb)
+7.[lab7](https://github.com/aditin11/AIML-2024-25/blob/main/Lab07_AIML.ipynb)
+8.[lab8](https://github.com/aditin11/AIML-2024-25/blob/main/Lab08_AIML.ipynb)
+9.[lab9](https://github.com/aditin11/AIML-2024-25/blob/main/Lab09_AIML.ipynb)
